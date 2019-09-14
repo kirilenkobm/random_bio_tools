@@ -16,3 +16,4 @@ Will be gradually updated.
 - chain_bed_intersect.py - a fast tool to show intersectios between chains and bed-12 tracks
 - invert_complement.py - just get an invert complement sequence
 - reorder_muscle_html.py - sort MUSCLE html output
+- split_CESAR_output.py - parse CESAR2.0 output file, get exon alignments + flanks
