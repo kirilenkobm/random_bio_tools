@@ -11,3 +11,4 @@ Will be gradually updated.
 - codon_ali_quality_check.py - detect misalignments in codon alignments
 - label.py - label a tree (for example, for HyPhy analysis)
 - add add_gene_labels.py - tool to add gene names for each Ensembl ID in a text file
+- bdb_to_stdout.py - show content of a berkeley DB file
