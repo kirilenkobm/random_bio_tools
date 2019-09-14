@@ -14,3 +14,4 @@ Will be gradually updated.
 - bdb_to_stdout.py - show content of a berkeley DB file
 - bed_to_seq.py - transform bed-12 annotation to a sequence
 - chain_bed_intersect.py - a fast tool to show intersectios between chains and bed-12 tracks
+- invert_complement.py - just get an invert complement sequence
