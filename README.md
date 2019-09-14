@@ -13,4 +13,4 @@ Will be gradually updated.
 - add add_gene_labels.py - tool to add gene names for each Ensembl ID in a text file
 - bdb_to_stdout.py - show content of a berkeley DB file
 - bed_to_seq.py - transform bed-12 annotation to a sequence
-- 
+- chain_bed_intersect.py - a fast tool to show intersectios between chains and bed-12 tracks
