@@ -15,3 +15,4 @@ Will be gradually updated.
 - bed_to_seq.py - transform bed-12 annotation to a sequence
 - chain_bed_intersect.py - a fast tool to show intersectios between chains and bed-12 tracks
 - invert_complement.py - just get an invert complement sequence
+- reorder_muscle_html.py - sort MUSCLE html output
