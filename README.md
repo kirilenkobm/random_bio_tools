@@ -12,3 +12,5 @@ Will be gradually updated.
 - label.py - label a tree (for example, for HyPhy analysis)
 - add add_gene_labels.py - tool to add gene names for each Ensembl ID in a text file
 - bdb_to_stdout.py - show content of a berkeley DB file
+- bed_to_seq.py - transform bed-12 annotation to a sequence
+- 
