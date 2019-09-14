@@ -1,8 +1,9 @@
 
 # Random bio tools
 
-Just a pile of random tools I wrote to operate with different biological data.
+Just a pile of random small standalone tools I wrote to operate with different biological data.
 Will be gradually updated.
+No warranty of any kind.
 
 ## Contents
 
@@ -17,3 +18,4 @@ Will be gradually updated.
 - invert_complement.py - just get an invert complement sequence
 - reorder_muscle_html.py - sort MUSCLE html output
 - split_CESAR_output.py - parse CESAR2.0 output file, get exon alignments + flanks
+- compare_prots.py - compare two proteins, show statistics
