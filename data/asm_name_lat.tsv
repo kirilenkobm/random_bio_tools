@@ -1,0 +1,993 @@
+petMar1	Lamprey	Petromyzon marinus
+droWil1	D. willistoni	Drosophila willistoni
+dp4	D. pseudoobscura	Drosophila pseudoobscura
+felCat3	Cat	Felis catus
+bosTau3	Cow	Bos taurus
+homIni14	Hominidae	Hominidae
+equCab2	Horse	Equus caballus
+turTru1	Dolphin	Tursiops truncatus
+droEre2	D. erecta	Drosophila erecta
+rn2	Rat	Rattus norvegicus
+macEug1	Wallaby	Macropus eugenii
+galGal2	Chicken	Gallus gallus
+hg15	Human	Homo sapiens
+sc1	SARS coronavirus	SARS coronavirus
+fr1	Fugu	Takifugu rubripes
+ce1	C. elegans	Caenorhabditis elegans
+falciparum	P. falciparum	Plasmodium falciparum
+cb1	C. briggsae	Caenorhabditis briggsae
+sacCer1	S. cerevisiae	Saccharomyces cerevisiae
+panTro1	Chimp	Pan troglodytes
+hg16	Human	Homo sapiens
+rn3	Rat	Rattus norvegicus
+dm1	D. melanogaster	Drosophila melanogaster
+cavPor3	Guinea pig	Cavia porcellus
+mm6	Mouse	Mus musculus
+ce2	C. elegans	Caenorhabditis elegans
+danRer2	Zebrafish	Danio rerio
+droEre1	D. erecta	Drosophila erecta
+monDom1	Opossum	Monodelphis domestica
+apiMel1	A. mellifera	Apis mellifera
+dp3	D. pseudoobscura	Drosophila pseudoobscura
+droVir1	D. virilis	Drosophila virilis
+droMoj1	D. mojavensis	Drosophila mojavensis
+xenTro1	X. tropicalis	Xenopus tropicalis
+droAna1	D. ananassae	Drosophila ananassae
+dm2	D. melanogaster	Drosophila melanogaster
+cb2	C. briggsae	Caenorhabditis briggsae
+hg17	Human	Homo sapiens
+droYak1	D. yakuba	Drosophila yakuba
+echTel1	Tenrec	Echinops telfairi
+droGri1	D. grimshawi	Drosophila grimshawi
+anoGam1	A. gambiae	Anopheles gambiae
+danRer1	Zebrafish	Danio rerio
+ci1	C. intestinalis	Ciona intestinalis
+cioSav1	C. savignyi	Ciona savignyi
+canFam1	Dog	Canis lupus familiaris
+dp2	D. pseudoobscura	Drosophila pseudoobscura
+tetNig1	Tetraodon	Tetraodon nigroviridis
+gorGor2	Gorilla	Gorilla gorilla gorilla
+taeGut1	Zebra finch	Taeniopygia guttata
+apiMel2	A. mellifera	Apis mellifera
+droMoj2	D. mojavensis	Drosophila mojavensis
+droAna2	D. ananassae	Drosophila ananassae
+bosTau2	Cow	Bos taurus
+ci2	C. intestinalis	Ciona intestinalis
+bosTau1	Cow	Bos taurus
+rheMac1	Rhesus	Macaca mulatta
+caeRem1	C. remanei	Caenorhabditis remanei
+caePb2	C. brenneri	Caenorhabditis brenneri
+droSim1	D. simulans	Drosophila simulans
+homIni20	orang/human	Hominidae ancestor
+strPur1	S. purpuratus	Strongylocentrotus purpuratus
+canFam2	Dog	Canis lupus familiaris
+ce3	C. elegans	Caenorhabditis elegans
+oryCun1	Rabbit	Oryctolagus cuniculus
+danRer3	Zebrafish	Danio rerio
+dasNov1	Armadillo	Dasypus novemcinctus
+loxAfr1	Elephant	Loxodonta africana
+triCas1	T. castaneum	Tribolium castaneum
+ce6	C. elegans	Caenorhabditis elegans
+droVir2	D. virilis	Drosophila virilis
+monDom2	Opossum	Monodelphis domestica
+mm7	Mouse	Mus musculus
+ce5	C. elegans	Caenorhabditis elegans
+bosTau4	Cow	Bos taurus
+priMat13	Primate	Primates
+homIni13	Hominidae	Hominidae
+hg18	Human	Homo sapiens
+monDom5	Opossum	Monodelphis domestica
+rn4	Rat	Rattus norvegicus
+danRer5	Zebrafish	Danio rerio
+droYak2	D. yakuba	Drosophila yakuba
+canHg12	Boreoeutherian	BoreoEutheria
+triCas2	T. castaneum	Tribolium castaneum
+droPer1	D. persimilis	Drosophila persimilis
+droSec1	D. sechellia	Drosophila sechellia
+cioSav2	C. savignyi	Ciona savignyi
+caeJap1	C. japonica	Caenorhabditis japonica
+venter1	J. Craig Venter	Homo sapiens
+rheMac2	Rhesus	Macaca mulatta
+choHof1	Sloth	Choloepus hoffmanni
+monDom4	Opossum	Monodelphis domestica
+panTro2	Chimp	Pan troglodytes
+mm8	Mouse	Mus musculus
+danRer4	Zebrafish	Danio rerio
+xenTro2	X. tropicalis	Xenopus tropicalis
+borEut13	Boreoeutherian	BoreoEutheria
+galGal3	Chicken	Gallus gallus
+afrOth13	Afrotheria	Afrotheria
+euaGli13	Euarchontoglires	Euarchontoglires
+eutHer13	Eutheria	Eutheria
+gliRes13	Glires	Glires
+lauRas13	Laurasiatheria	Laurasiatheria
+nonAfr13	Non-Afrotheria	Non-Afrotheria
+rodEnt13	Rodent	Rodents
+catArr1	Catarrhini	Catarrhini
+droVir3	D. virilis	Drosophila virilis
+gasAcu1	Stickleback	Gasterosteus aculeatus
+droAna3	D. ananassae	Drosophila ananassae
+dm3	D. melanogaster	Drosophila melanogaster
+droMoj3	D. mojavensis	Drosophila mojavensis
+droGri2	D. grimshawi	Drosophila grimshawi
+oryLat1	Medaka	Oryzias latipes
+otoGar1	Bushbaby	Otolemur garnettii
+ornAna1	Platypus	Ornithorhynchus anatinus
+tupBel1	Tree shrew	Tupaia belangeri
+fr2	Fugu	Takifugu rubripes
+braFlo1	Lancelet	Branchiostoma floridae
+equCab1	Horse	Equus caballus
+anoCar1	Lizard	Anolis carolinensis
+caePb1	C. brenneri	Caenorhabditis brenneri
+priPac1	P. pacificus	Pristionchus pacificus
+ce4	C. elegans	Caenorhabditis elegans
+cb3	C. briggsae	Caenorhabditis briggsae
+strPur2	S. purpuratus	Strongylocentrotus purpuratus
+sorAra1	Shrew	Sorex araneus
+caeRem2	C. remanei	Caenorhabditis remanei
+cavPor2	Guinea pig	Cavia porcellus
+vicPac1	Alpaca	Vicugna pacos
+gorGor1	Gorilla	Gorilla gorilla gorilla
+tarSyr1	Tarsier	Tarsius syrichta
+ponAbe2	Orangutan	Pongo pygmaeus abelii
+calJac1	Marmoset	Callithrix jacchus
+eriEur1	Hedgehog	Erinaceus europaeus
+mm9	Mouse	Mus musculus
+caeRem3	C. remanei	Caenorhabditis remanei
+homPan20	chimp/human	Chimp/Human ancestor
+nemVec1	Starlet sea anemone	Nematostella vectensis
+pteVam1	Megabat	Pteropus vampyrus
+apiMel3	A. mellifera	Apis mellifera
+dipOrd1	Kangaroo rat	Dipodomys ordii
+proCap1	Rock hyrax	Procavia capensis
+ochPri2	Pika	Ochotona princeps
+myoLuc1	Microbat	Myotis lucifugus
+micMur1	Mouse lemur	Microcebus murinus
+loxAfr2	Elephant	Loxodonta africana
+dasNov2	Armadillo	Dasypus novemcinctus
+speTri1	Squirrel	Spermophilus tridecemlineatus
+oryLat2	Medaka	Oryzias latipes
+simHuman	Simhuman	Human Primate Alignathon
+sacCer2	S. cerevisiae	Saccharomyces cerevisiae
+hg19	Human	Homo sapiens
+hg19Haps	hg19Haplotypes	Homo sapiens
+h1n1	A H1N1	Human case of H1N1 swine influenza
+h1n1b	H1N1 A	Homo sapiens
+aplCal1	Sea hare	Aplysia californica
+papHam1	Baboon	Papio hamadryas
+canFamPoodle1	Dog	Canis lupus familiaris
+danRer6	Zebrafish	Danio rerio
+loxAfr3	Elephant	Loxodonta africana
+ce7	C. elegans	Caenorhabditis elegans
+caeJap2	C. japonica	Caenorhabditis japonica
+ce8	C. elegans	Caenorhabditis elegans
+sacPar	S. paradoxus	Saccharomyces paradoxus
+sacMik	S. mikatae	Saccharomyces mikatae
+sacKud	S. kudriavzevii	Saccharomyces kudriavzevii
+sacKlu	S. kluyveri	Saccharomyces kluyveri
+sacCas	S. castelli	Saccharomyces castelli
+sacBay	S. bayanus	Saccharomyces bayanus
+tetNig2	Tetraodon	Tetraodon nigroviridis
+oryCun2	Rabbit	Oryctolagus cuniculus
+susScr1	Pig	Sus scrofa
+mmtv	MMTV	Mouse mammary tumor virus
+bosTauMd3	Cow	Bos Taurus
+ailMel1	Panda	Ailuropoda melanoleuca
+calJac3	Marmoset	Callithrix jacchus
+melGal1	Turkey	Meleagris gallopavo
+susScr2	Pig	Sus scrofa
+oviAri1	Sheep	Ovis aries
+felCat4	Cat	Felis catus
+ce9	C. elegans	Caenorhabditis elegans
+bosTau5	Cow	Bos taurus
+hg19Patch2	GRCh37.p2	Homo sapiens
+strPur3	S. purpuratus	Strongylocentrotus purpuratus
+bruMal1	Filarial worm	Brugia malayi
+melHap1	M. hapla	Meloidogyne hapla
+melInc1	M. incognita	Meloidogyne incognita
+caeJap3	C. japonica	Caenorhabditis japonica
+haeCon1	Barber pole worm	Haemonchus contortus
+cacTus1	Cactus	Cactus benedictus
+priPac2	P. pacificus	Pristionchus pacificus
+cacTus2	Cactus	Cactus benedictus
+nomLeu1	Gibbon	Nomascus leucogenys
+myoLuc2	Microbat	Myotis lucifugus
+speTri2	Squirrel	Spermophilus tridecemlineatus
+calMil0	Notyet	notYeticus
+rn5	Rat	Rattus norvegicus
+mhcRefnoNs22	Mhcref	Cactus benedictus
+melUnd1	Budgerigar	Melopsittacus undulatus
+macEug2	Wallaby	Macropus eugenii
+otoGar3	Bushbaby	Otolemur garnettii
+sarHar1	Tasmanian devil	Sarcophilus harrisii
+simHumanMammal	Simhumanmammal	Human Mammal Alignathon
+mm10	Mouse	Mus musculus
+cacTus3	Cactus	Cactus benedictus
+danRer7	Zebrafish	Danio rerio
+simHumanPrim	Simprim	Cactus benedictus
+simHumanMam	Simmam	Cactus benedictus
+simRefMam	Simrefmam	Cactus benedictus
+mhcRef	Mhcref	Cactus benedictus
+mhcRefnoNs	Mhcref	Cactus benedictus
+panTro3	Chimp	Pan troglodytes
+mhcRefnoNs2	Mhcref	Cactus benedictus
+kirRef	Kirref	Cactus benedictus
+kirRefV2	Kirrefv2	Cactus benedictus
+kirRefV3	Kirrefv3	Cactus benedictus
+kirRefV4	Kirrefv4	Cactus benedictus
+anoCar2	Lizard	Anolis carolinensis
+kirRefV5	Kirrefv5	Cactus benedictus
+bosTau6	Cow	Bos taurus
+ce10	C. elegans	Caenorhabditis elegans
+cb4	C. briggsae	Caenorhabditis briggsae
+caeRem4	C. remanei	Caenorhabditis remanei
+caeJap4	C. japonica	Caenorhabditis japonica
+caePb3	C. brenneri	Caenorhabditis brenneri
+caeSp71	C. sp. 7 ju1286	Caenorhabditis sp7. JU1286
+caeSp91	C. sp. 9 ju1422	Caenorhabditis sp9. JU1422
+caeSp111	C. tropicalis	Caenorhabditis tropicalis
+caeAng1	C. angaria	Caenorhabditis angaria
+mhcRefnoNs3	Mhcref	Cactus benedictus
+allMis0	American alligator	Alligator mississippiensis
+mhcRefnoNs4	Mhcref	Cactus benedictus
+croPor0	Saltwater crocodile	Crocodylus porosus
+mhcRefnoNs5	Mhcref	Cactus benedictus
+hg19Patch5	GRCh37.p5	Homo sapiens
+mhcRefnoNs6	Mhcref	Cactus benedictus
+mhcRefnoNs7	Mhcref	Cactus benedictus
+mhcRefnoNs8	Mhcref	Cactus benedictus
+mhcRefnoNs9	Mhcref	Cactus benedictus
+mhcRefnoNs10	Mhcref	Cactus benedictus
+mhcRefnoNs11	Mhcref	Cactus benedictus
+mhcRefnoNs12	Mhcref	Cactus benedictus
+sacCer3	S. cerevisiae	Saccharomyces cerevisiae
+mhcRefnoNs13	Mhcref	Cactus benedictus
+mhcRefnoNs14	Mhcref	Cactus benedictus
+xenTro3	X. tropicalis	Xenopus tropicalis
+mhcRefnoNs15	Mhcref	Cactus benedictus
+mhcRefnoNs16	Mhcref	Cactus benedictus
+mhcRefnoNs17	Mhcref	Cactus benedictus
+gorGor3	Gorilla	Gorilla gorilla gorilla
+mhcRefnoNs18	Mhcref	Cactus benedictus
+mhcRefnoNs19	Mhcref	Cactus benedictus
+mhcRefnoNs20	Mhcref	Cactus benedictus
+mhcRefnoNs21	Mhcref	Cactus benedictus
+fr3	Fugu	Takifugu rubripes
+oreNil1	Nile tilapia	Oreochromis niloticus
+hetGla1	Naked mole-rat	Heterocephalus glaber
+strPur4	S. purpuratus	Strongylocentrotus purpuratus
+rheMac3	Rhesus	Macaca mulatta
+gadMor1	Atlantic cod	Gadus morhua
+bosTau7	Cow	Bos taurus
+galGal4	Chicken	Gallus gallus
+canFam3	Dog	Canis lupus familiaris
+panTro4	Chimp	Pan troglodytes
+saiBol1	Squirrel monkey	Saimiri boliviensis
+latCha1	Coelacanth	Latimeria chalumnae
+triMan1	Manatee	Trichechus manatus latirostris
+chrPic1	Painted turtle	Chrysemys picta bellii
+mhcRefnoNs23	Mhcref	Cactus benedictus
+mhcRefnoNs24	Mhcref	Cactus benedictus
+oreNil2	Nile tilapia	Oreochromis niloticus
+turTru2	Dolphin	Tursiops truncatus
+dasNov3	Armadillo	Dasypus novemcinctus
+hlaRef1	Hlaref	Cactus benedictus
+felCat5	Cat	Felis catus
+susScr3	Pig	Sus scrofa
+hlaRef2	Hlaref	Cactus benedictus
+hetGla2	Naked mole-rat	Heterocephalus glaber
+nomLeu2	Gibbon	Nomascus leucogenys
+hlaRef3	Hlaref	Cactus benedictus
+repBase0	RepBase	GIRI repBase
+mm10Patch1	GRCm38.p1	Mus musculus
+hg19Patch9	GRCh37.p9	Homo sapiens
+papAnu2	Baboon	Papio anubis
+geoFor1	Medium ground finch	Geospiza fortis
+chiLan1	Chinchilla	Chinchilla lanigera
+allMis1	American alligator	Alligator mississippiensis
+cerSim1	White rhinoceros	Ceratotherium simum
+repBase1	RepBase	GIRI repBase
+hg19Patch10	GRCh37.p10	Homo sapiens
+mm10Strains1	Mm10haps	Mus musculus
+petMar2	Lamprey	Petromyzon marinus
+braFlo2	Lancelet	Branchiostoma floridae
+centromeres1	CentromereY	Human Centromere Reference Models
+repeats2	Human repeats	RepeatMasker Consensus Sequences
+ecoRef1	Ecoref	Cactus ecoli
+ecoRef2	Ecoref	Cactus ecoli
+ecoRef3	Ecoref	Cactus ecoli
+panPan1	Bonobo	Pan paniscus
+nomLeu3	Gibbon	Nomascus leucogenys
+musFur1	Ferret	Mustela putorius furo
+ecoRef4	Ecoref	Cactus ecoli
+amaVit1	Parrot	Amazona vittata
+evoSim1	Evosim	Evo Sim
+hg19LggInv	Hg19 lgg inversion	Hg19 with LGG inversion
+sorAra2	Shrew	Sorex araneus
+echTel2	Tenrec	Echinops telfairi
+taeGut2	Zebra finch	Taeniopygia guttata
+eriEur2	Hedgehog	Erinaceus europaeus
+oviAri3	Sheep	Ovis aries
+vicPac2	Alpaca	Vicugna pacos
+CHM1	Homo sapiens hydatidiform mole assembly chm1	mole
+xenTro7	X. tropicalis	Xenopus tropicalis
+ochPri3	Pika	Ochotona princeps
+bioGla0	Snail	Biomphalaria glabrata
+lotGig0	Limpet	Lottia gigantea
+aplCal0	Sea hare	Aplysia californica
+macFas5	Crab-eating macaque	Macaca fascicularis
+chlSab1	Green monkey	Chlorocebus sabaeus
+tupChi1	Chinese tree shrew	Tupaia chinensis
+micOch1	Prairie vole	Microtus ochrogaster
+criGri1	Chinese hamster	Cricetulus griseus
+mesAur1	Golden hamster	Mesocricetus auratus
+octDeg1	Brush-tailed rat	Octodon degus
+camFer1	Bactrian camel	Camelus ferus
+orcOrc1	Killer whale	Orcinus orca
+panHod1	Tibetan antelope	Pantholops hodgsonii
+capHir1	Domestic goat	Capra hircus
+odoRosDiv1	Pacific walrus	Odobenus rosmarus divergens
+lepWed1	Weddell seal	Leptonychotes weddellii
+pteAle1	Black flying-fox	Pteropus alecto
+myoDav1	David's myotis (bat)	Myotis davidii
+eptFus1	Big brown bat	Eptesicus fuscus
+conCri1	Star-nosed mole	Condylura cristata
+eleEdw1	Cape elephant shrew	Elephantulus edwardii
+chrAsi1	Cape golden mole	Chrysochloris asiatica
+oryAfe1	Aardvark	Orycteropus afer afer
+falChe1	Saker falcon	Falco cherrug
+falPer1	Peregrine falcon	Falco peregrinus
+ficAlb2	Collared flycatcher	Ficedula albicollis
+zonAlb1	White-throated sparrow	Zonotrichia albicollis
+pseHum1	Tibetan ground jay	Pseudopodoces humilis
+araMac1	Scarlet macaw	Ara macao
+colLiv1	Rock pigeon	Columba livia
+anaPla1	Mallard duck	Anas platyrhynchos
+cheMyd1	Green seaturtle	Chelonia mydas
+pelSin1	Chinese softshell turtle	Pelodiscus sinensis
+apaSpi1	Spiny softshell turtle	Apalone spinifera
+takFla1	Yellowbelly pufferfish	Takifugu flavidus
+neoBri1	Princess of Burundi	Neolamprologus brichardi
+hapBur1	Burton's mouthbreeder	Haplochromis burtoni
+mayZeb1	Zebra mbuna	Maylandia zebra
+punNye1	Pundamilia nyererei	Pundamilia nyererei
+xipMac1	Southern platyfish	Xiphophorus maculatus
+astMex1	Mexican tetra (cavefish)	Astyanax mexicanus
+lepOcu1	Spotted gar	Lepisosteus oculatus
+jacJac1	Lesser Egyptian jerboa	Jaculus jaculus
+letCam1	Arctic lamprey	Lethenteron camtschaticum
+braNey1	Braney	braney test
+hg38	Human	Homo sapiens
+calMil1	Elephant shark	Callorhinchus milii
+balAcu1	Minke whale	Balaenoptera acutorostrata scammoni
+cynSem1	Tongue sole	Cynoglossus semilaevis
+chrPic2	Painted turtle	Chrysemys picta bellii
+bubBub1	Water buffalo	Bubalus bubalis
+chlSab2	Green monkey	Chlorocebus sabaeus
+serCan1	Canary	Serinus canaria
+poeFor1	Amazon molly	Poecilia formosa
+pytBiv1	Burmese python	Python bivittatus
+cotJap1	Japanese quail	Coturnix japonica
+sebNig1	Tiger rockfish	Sebastes nigrocinctus
+sebRub1	Flag rockfish	Sebastes rubrivinctus
+perManBai1	Prairie deer mouse	Peromyscus maniculatus bairdii
+rhiFer1	Greater horseshoe bat	Rhinolophus ferrumequinum
+angJap1	Japanese eel	Anguilla japonica
+phyCat1	Sperm whale	Physeter catodon
+megLyr1	Indian false vampire	Megaderma lyra
+ptePar1	Parnell's mustached bat	Pteronotus parnellii
+poeRet1	Guppy	Poecilia reticulata
+dm6	D. melanogaster	Drosophila melanogaster
+strCam1	Ostrich	Struthio camelus australis
+ursMar1	Polar bear	Ursus maritimus
+galVar1	Malayan flying lemur	Galeopterus variegatus
+droAlb1	D. albomicans	Drosophila albomicans
+lipVex1	Yangtze river dolphin	Lipotes vexillifer
+droKik2	D. kikkawai	Drosophila kikkawai
+droRho2	D. rhopaloa	Drosophila rhopaloa
+eidHel1	Straw colored fruit bat	Eidolon helvum
+musDom2	M. domestica	Musca domestica
+apiMel4	A. mellifera	Apis mellifera
+droSuz1	D. suzukii	Drosophila suzukii
+droBia2	D. biarmipes	Drosophila biarmipes
+droWil2	D. willistoni	Drosophila willistoni
+droYak3	D. yakuba	Drosophila yakuba
+allSin1	Chinese alligator	Alligator sinensis
+droPse3	D. pseudoobscura	Drosophila pseudoobscura pseudoobscura
+droTak2	D. takahashii	Drosophila takahashii
+droBip2	D. bipectinata	Drosophila bipectinata
+droEug2	D. eugracilis	Drosophila eugracilis
+droFic2	D. ficusphila	Drosophila ficusphila
+droEle2	D. elegans	Drosophila elegans
+droMir2	D. miranda	Drosophila miranda
+myoBra1	Brandt's myotis (bat)	Myotis brandtii
+panTig1	Amur tiger	Panthera tigris altaica
+tarIhg38	tarInv	Homo sapiens tar
+acaChl1	Rifleman	Acanthisitta chloris
+apaVit1	Bar tailed trogon	Apaloderma vittatum
+aptFor1	Emperor penguin	Aptenodytes forsteri
+aquChr1	Golden eagle	Aquila chrysaetos canadensis
+balPav1	Crowned crain	Balearica pavonina gibbericeps
+bosMut1	Wild yak	Bos grunniens mutus
+calAnn1	Anna's hummingbird	Calypte anna
+capCar1	Chuck-will's-widow	Caprimulgus carolinensis
+carCri1	Red-legged seriema	Cariama cristata
+chaVoc1	Killdeer	Charadrius vociferus
+chlUnd1	Houbara bustard	Chlamydotis undulata macqueenii
+colStr1	Speckled mousebird	Colius striatus
+corBra1	American crow	Corvus brachyrhynchos
+cucCan1	Common cuckoo	Cuculus canorus
+dicLab1	European sea bass	Dicentrarchus labrax
+egrGar1	Little egret	Egretta garzetta
+equPrz1	Przewalski horse	Equus przewalskii
+eurHel1	Sunbittern	Eurypyga helias
+fulGla1	Northern fulmar	Fulmarus glacialis
+gavSte1	Red-throated loon	Gavia stellata
+halAlb1	White-tailed eagle	Haliaeetus albicilla
+lepDis1	Cuckoo roller	Leptosomus discolor
+manVit1	Golden-collared manakin	Manacus vitellinus
+merNub1	Northern carmine bee-eater	Merops nubicus
+mesUni1	Brown roatelo	Mesitornis unicolor
+nanGal1	Upper Galilee mountains blind mole rat	Nannospalax galili
+nipNip1	Crested ibis	Nipponia nippon
+opiHoa1	Hoatzin	Opisthocomus hoazin
+pelCri1	Dalmatian pelican	Pelecanus crispus
+phaLep1	White-tailed tropicbird	Phaethon lepturus
+picPub1	Downy woodpecker	Picoides pubescens
+pteGut1	Yellow-throated sandgrouse	Pterocles gutturalis
+pygAde1	Adelie penguin	Pygoscelis adeliae
+stePar1	Bicolor damselfish	Stegastes partitus
+tytAlb1	Barn owl	Tyto alba
+phoRub1	American flamingo	Phoenicopterus ruber ruber
+phaCar1	Great cormorant	Phalacrocorax carbo
+tinGut1	White throated tinamou	Tinamus guttatus
+tauEry1	Red crested turaco	Tauraco erythrolophus
+gavGan0	Gharial	Gavialis gangeticus
+rn6	Rat	Rattus norvegicus
+aciBauTYTH_1	Acinetobacter baumannii	Acinetobacter baumannii_TYTH_1
+bosTau8	Cow	Bos taurus
+chaVoc2	Killdeer	Charadrius vociferus
+bucRhi1	Rhinoceros hornbill	Buceros rhinoceros silvestris
+tinGut2	White throated tinamou	Tinamus guttatus
+halLeu1	Bald eagle	Haliaeetus leucocephalus
+corCor1	Hooded crow	Corvus cornix cornix
+notCor1	Black rockcod	Notothenia coriiceps
+cypVar1	Sheepshead minnow	Cyprinodon variegatus
+esoLuc1	Northern pike	Esox lucius
+manPen1	Chinese pangolin	Manis pentadactyla
+bunEbo1	Bundibugyo ebolavirus	Bundibugyo ebolavirus
+sudEbo1	Sudan ebolavirus	Sudan ebolavirus
+resEbo1	Reston ebolavirus	Reston ebolavirus
+taiEbo1	Tai forest ebolavirus	Tai Forest ebolavirus
+zaiEbo1	Zaire ebolavirus	Zaire ebolavirus
+eboVir1	Ebola virus	Ebola virus
+eboVir2	Ebola virus	Ebola virus
+marVir1	Marburg virus	Marburg virus
+eboVir3	Ebola virus	Filoviridae ebolavirus
+plasFalc3D7V12	Plasmodium falciparum 3d7	Plasmodium falciparum 3D7
+tarSyr2	Tarsier	Tarsius syrichta
+felCat8	Cat	Felis catus
+nasLar1	Proboscis monkey	Nasalis larvatus
+rheMac7	Rhesus	Macaca mulatta
+rhiRox1	Golden snub-nosed monkey	Rhinopithecus roxellana
+aquChr2	Golden eagle	Aquila chrysaetos canadensis
+danRer10	Zebrafish	Danio rerio
+hg38Patch2	GRCh38.p2	Homo sapiens
+bisBis1	Bison	Bison bison bison
+ornAna2	Platypus	Ornithorhynchus anatinus
+nanPar1	Tibetan frog	Nanorana parkeri
+braNey38	Braney	braney test
+hg38Patch3	GRCh38.p3	Homo sapiens
+micMur2	Mouse lemur	Microcebus murinus
+ce11	C. elegans	Caenorhabditis elegans
+caeAng2	C. angaria	Caenorhabditis angaria
+melInc2	M. incognita	Meloidogyne incognita
+priPac3	P. pacificus	Pristionchus pacificus
+panRed1	Microworm	Panagrellus redivivus
+haeCon2	Barber pole worm	Haemonchus contortus
+caeSp51	C. sp. 5 ju800	Caenorhabditis sp5 ju800
+strRat1	Threadworm	Strongyloides ratti
+strRat2	Threadworm	Strongyloides ratti
+burXyl1	Pine wood nematode	Bursaphelenchus xylophilus
+dirImm1	Dog heartworm	Dirofilaria immitis
+oncVol1	O. volvulus	Onchocerca volvulus
+triSpi1	Trichinella	Trichinella spiralis
+triSui1	Whipworm	Trichuris suis
+loaLoa1	Eye worm	Loa loa
+ascSuu1	Pig roundworm	Ascaris suum
+priExs1	P. exspectatus	Pristionchus exspectatus
+hetBac1	H. bacteriophora/m31e	Heterorhabditis bacteriophora
+ancCey1	A. ceylanicum	Ancylostoma ceylanicum
+necAme1	N. americanus	Necator americanus
+bruMal2	Filarial worm	Brugia malayi
+ci3	C. intestinalis	Ciona intestinalis
+thaSir1	Garter snake	Thamnophis sirtalis
+aptMan1	Brown kiwi	Apteryx australis
+gorGor4	Gorilla	Gorilla gorilla gorilla
+hg38Patch5	GRCh38.p5	Homo sapiens
+oxyTri2	Oxytricha trifallax	Oxytricha trifallax
+hg38Patch6	GRCh38.p6	Homo sapiens
+rheMac8	Rhesus	Macaca mulatta
+galGal5	Chicken	Gallus gallus
+rouAeg1	Egyptian rousette	Rousettus aegyptiacus
+panPan2	Bonobo	Pan paniscus
+mm10Patch4	GRCm38.p4	Mus musculus
+hg38Patch7	GRCh38.p7	Homo sapiens
+colAng1	Angolan colobus	Colobus angolensis palliatus
+gorGor5	Gorilla	Gorilla gorilla gorilla
+panTro5	Chimp	Pan troglodytes
+droSim2	D. simulans	Drosophila simulans
+hg38Patch9	GRCh38.p9	Homo sapiens
+melGal5	Turkey	Meleagris gallopavo
+macNem1	Pig-tailed macaque	Macaca nemestrina
+rhiBie1	Black snub-nosed monkey	Rhinopithecus bieti
+micMur3	Mouse lemur	Microcebus murinus
+xenTro9	X. tropicalis	Xenopus tropicalis
+xenLae2	African clawed frog	Xenopus laevis
+criGriChoV1	Chinese hamster	Cricetulus griseus
+hpv1	Hpv	Human papillomavirus type 90
+danRer11	Zebrafish	Danio rerio
+hbv1	Hbv	Hepatitis B virus
+papAnu3	Baboon	Papio anubis
+susScr11	Pig	Sus scrofa
+oreNil3	Nile tilapia	Oreochromis niloticus
+staAur1	Staph	Staphylococcus aureus
+hg38Patch11	GRCh38.p11	Homo sapiens
+test	none	none
+manLeu1	Drill	Mandrillus leucophaeus
+aotNan1	Ma's night monkey	Aotus nancymaae
+cerAty1	Sooty mangabey	Cercocebus atys
+neoSch1	Hawaiian monk seal	Neomonachus schauinslandi
+proCoq1	Coquerel's sifaka	Propithecus coquereli
+cebCap1	White-faced sapajou	Cebus capucinus imitator
+eulFla1	Sclater's lemur	Eulemur flavifrons
+eulMac1	Black lemur	Eulemur macaco
+anoGam3	A. gambiae	Anopheles gambiae
+dipOrd2	Kangaroo rat	Dipodomys ordii
+fukDam1	Damara mole rat	Fukomys damarensis
+criGriChoV2	Chinese hamster	Cricetulus griseus
+papAnu4	Baboon	Papio anubis
+cavApe1	Brazilian guinea pig	Cavia aperea
+ficAlb1	Collared flycatcher	Ficedula albicollis
+petMar3	Lamprey	Petromyzon marinus
+felCat9	Cat	Felis catus
+astCal1	Eastern happy	Astatotilapia calliptera
+casCan1	Beaver	Castor canadensis
+panTro6	Chimp	Pan troglodytes
+ponAbe3	Orangutan	Pongo pygmaeus abelii
+equCab3	Horse	Equus caballus
+grcHhh38	Human	Homo sapiens
+grcH38P11	Human	Homo sapiens
+oviAri4	Sheep	Ovis aries
+hg19Patch13	GRCh37.p13	Homo sapiens
+grcH38P12	Human	Homo sapiens
+ambMex1	Axolotl	Ambystoma mexicanum
+macLig1	Macrostomum	Macrostomum lignano 
+boaCon1	Boa	Boa constrictor
+schJap1	Schist.japonicum	Schistosoma japonicum
+schMed1	Schmidtea	Schmidtea mediterranea
+schMan1	Schist.mansoni	Schistosoma mansoni
+dp4	D. pseudoobscura	Drosophila pseudoobscura
+droSuz1	D. suzukii	Drosophila suzukii
+droMau1	D. mauritiana	Drosophila mauritiana
+dp5	D. pseudoobscura	Drosophila pseudoobscura pseudoobscura
+droSuz2	D. suzukii	Drosophila suzukii
+HLlipVex1	Yangtze river dolphin	Lipotes vexillifer
+HLbalAcu1	Minke whale	Balaenoptera acutorostrata
+HLphyCat1	Sperm whale	Physeter catodon 
+HLursMar1	Polar bear	Ursus maritimus
+lambda	Lambda	Enterobacteria phage lambda
+HLtupMer0	Tupinambis	Tupinambis teguixin
+HLtupMer1	Tupinambis	Tupinambis teguixin
+HLthaPse1	Thalassiosira pseudonana	Thalassiosira pseudonana
+HLphaTri1	Phaeodactylum tricornutum	Phaeodactylum tricornutum
+HLfraCyl1	Fragilariopsis cylindrus	Fragilariopsis cylindrus
+HLnotFur1	Turquoise killifish	Nothobranchius furzeri
+HLtupMer2	Tupinambis	Tupinambis merianae
+HLtreOri1	Tretioscincus	Tretioscincus oriximinensis
+HLophGra1	Ophisaurus	Ophisaurus gracilis
+HLtupMer3	Tupinambis	Tupinambis merianae
+HLcalSin1	Calyptommatus	Calyptommatus sinebrachiatus
+HLptePar	Parnell moustached bat	Pteronotus parnellii
+HLcroHor1	Timber rattlesnake	Crotalus horridus
+HLgekJap1	Gekko	Gekko japonicus
+HLaotNan1	Night monkey	Aotus nancymaae
+HLcebCap1	White-faced sapajou	Cebus capucinus imitator
+HLproCoq1	Sifaka	Propithecus coquereli
+HLcerAty1	Sooty mangabey	Cercocebus atys
+HLcolAng1	Angolan colobus	Colobus angolensis palliatus
+HLpogVit1	Australian dragon	Pogona vitticeps
+schMed3	Schmidtea	Schmidtea mediterranea
+macLig2	Macrostomum	Macrostomum lignano 
+HLambMex2	Axolotl	Ambystoma mexicanum
+HLambMex1	Axolotl	Ambystoma mexicanum
+HLambMex4	Axolotl	Ambystoma mexicanum
+HLambMex3	Axolotl	Ambystoma mexicanum
+HLambMexHox	Axolotl	Ambystoma mexicanum
+HLaciJub1	Cheetah	Acinonyx jubatus
+HLailFul1	Lesser panda	Ailurus fulgens styani
+HLcasCan1	American beaver	Castor canadensis
+HLequAsi1	Ass	Equus asinus
+HLfukDam1	Damara mole-rat	Fukomys damarensis
+HLhipArm1	Great roundleaf bat	Hipposideros armiger
+HLlycPic1	African hunting dog	Lycaon pictus
+HLmanJav1	Malayan pangolin	Manis javanica
+HLmarMar1	Alpine marmot	Marmota marmota marmota
+HLminNat1	Natal long-fingered bat	Miniopterus natalensis
+HLoviCan1	Bighorn sheep	Ovis canadensis canadensis
+HLpanPar1	Leopard	Panthera pardus
+HLrhiSin1	Chinese rufous horseshoe bat	Rhinolophus sinicus
+HLodoVir1	White-tailed deer	Odocoileus virginianus texanus
+HLcamFer2	Wild bactrian camel	Camelus ferus
+HLcamBac1	Bactrian camel	Camelus bactrianus
+HLcapHir2	Goat	Capra hircus
+HLturTru3	Bottlenose dolphin	Tursiops truncatus
+HLoviAri4	Sheep	Ovis aries
+HLpteVam2	Large flying fox	Pteropus vampyrus
+HLproCap2	Cape rock hyrax	Procavia capensis
+HLsusScr4	Pig	Sus scrofa
+HLchoHof2	Hoffmanns two-fingered sloth	Choloepus hoffmanni
+ambMex3	Axolotl	Ambystoma mexicanum
+HLmacNem1	Pig-tailed macaque	Macaca nemestrina
+HLmerUng1	Mongolian gerbil	Meriones unguiculatus
+HLcamDro1	Arabian camel	Camelus dromedarius
+HLneoSch1	Hawaiian monk seal	Neomonachus schauinslandi
+HLmusCar1	Ryukyu mouse	Mus caroli
+HLmusPah1	Shrew mouse	Mus pahari
+HLcerEla1	Red deer	Cervus elaphus hippelaphus
+HLmanLeu1	Drill	Mandrillus leucophaeus
+HLbosInd1	Zebu cattle	Bos indicus
+HLaotNan2	Mas night monkey	Aotus nancymaae
+HLphaCin1	Koala	Phascolarctos cinereus
+HLdipOrd2	Ords kangaroo rat	Dipodomys ordii
+HLdesRot1	Common vampire bat	Desmodus rotundus
+HLorcOrc1	Killer whale	Orcinus orca
+HLenhLut1	Sea otter	Enhydra lutris kenyoni
+HLdelLeu1	Beluga whale	Delphinapterus leucas
+HLmyoMyo1	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo2	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo3	Greater mouse-eared bat	Myotis myotis
+HLcalAnn1	Anna's hummingbird	Calypte anna
+HLcalAnn2	Annas hummingbird	Calypte anna
+HLequCab3	Horse	Equus caballus
+HLchaPel1	Chimney swift	Chaetura pelagica
+macLig1	Macrostomum	Macrostomum lignano 
+boaCon1	Boa	Boa constrictor
+schJap1	Schist.japonicum	Schistosoma japonicum
+schMed1	Schmidtea	Schmidtea mediterranea
+schMan1	Schist.mansoni	Schistosoma mansoni
+dp4	D. pseudoobscura	Drosophila pseudoobscura
+droSuz1	D. suzukii	Drosophila suzukii
+droMau1	D. mauritiana	Drosophila mauritiana
+dp5	D. pseudoobscura	Drosophila pseudoobscura pseudoobscura
+droSuz2	D. suzukii	Drosophila suzukii
+HLlipVex1	Yangtze river dolphin	Lipotes vexillifer
+HLbalAcu1	Minke whale	Balaenoptera acutorostrata
+HLphyCat1	Sperm whale	Physeter catodon 
+HLursMar1	Polar bear	Ursus maritimus
+lambda	Lambda	Enterobacteria phage lambda
+HLtupMer0	Tupinambis	Tupinambis teguixin
+HLtupMer1	Tupinambis	Tupinambis teguixin
+HLthaPse1	Thalassiosira pseudonana	Thalassiosira pseudonana
+HLphaTri1	Phaeodactylum tricornutum	Phaeodactylum tricornutum
+HLfraCyl1	Fragilariopsis cylindrus	Fragilariopsis cylindrus
+HLnotFur1	Turquoise killifish	Nothobranchius furzeri
+HLtupMer2	Tupinambis	Tupinambis merianae
+HLtreOri1	Tretioscincus	Tretioscincus oriximinensis
+HLophGra1	Ophisaurus	Ophisaurus gracilis
+HLtupMer3	Tupinambis	Tupinambis merianae
+HLcalSin1	Calyptommatus	Calyptommatus sinebrachiatus
+HLptePar	Parnell moustached bat	Pteronotus parnellii
+HLcroHor1	Timber rattlesnake	Crotalus horridus
+HLgekJap1	Gekko	Gekko japonicus
+HLaotNan1	Night monkey	Aotus nancymaae
+HLcebCap1	White-faced sapajou	Cebus capucinus imitator
+HLproCoq1	Sifaka	Propithecus coquereli
+HLcerAty1	Sooty mangabey	Cercocebus atys
+HLcolAng1	Angolan colobus	Colobus angolensis palliatus
+HLpogVit1	Australian dragon	Pogona vitticeps
+schMed3	Schmidtea	Schmidtea mediterranea
+macLig2	Macrostomum	Macrostomum lignano 
+HLambMex2	Axolotl	Ambystoma mexicanum
+HLambMex1	Axolotl	Ambystoma mexicanum
+HLambMex4	Axolotl	Ambystoma mexicanum
+HLambMex3	Axolotl	Ambystoma mexicanum
+HLambMexHox	Axolotl	Ambystoma mexicanum
+HLaciJub1	Cheetah	Acinonyx jubatus
+HLailFul1	Lesser panda	Ailurus fulgens styani
+HLcasCan1	American beaver	Castor canadensis
+HLequAsi1	Ass	Equus asinus
+HLfukDam1	Damara mole-rat	Fukomys damarensis
+HLhipArm1	Great roundleaf bat	Hipposideros armiger
+HLlycPic1	African hunting dog	Lycaon pictus
+HLmanJav1	Malayan pangolin	Manis javanica
+HLmarMar1	Alpine marmot	Marmota marmota marmota
+HLminNat1	Natal long-fingered bat	Miniopterus natalensis
+HLoviCan1	Bighorn sheep	Ovis canadensis canadensis
+HLpanPar1	Leopard	Panthera pardus
+HLrhiSin1	Chinese rufous horseshoe bat	Rhinolophus sinicus
+HLodoVir1	White-tailed deer	Odocoileus virginianus texanus
+HLcamFer2	Wild bactrian camel	Camelus ferus
+HLcamBac1	Bactrian camel	Camelus bactrianus
+HLcapHir2	Goat	Capra hircus
+HLturTru3	Bottlenose dolphin	Tursiops truncatus
+HLoviAri4	Sheep	Ovis aries
+HLpteVam2	Large flying fox	Pteropus vampyrus
+HLproCap2	Cape rock hyrax	Procavia capensis
+HLsusScr4	Pig	Sus scrofa
+HLchoHof2	Hoffmanns two-fingered sloth	Choloepus hoffmanni
+ambMex3	Axolotl	Ambystoma mexicanum
+HLmacNem1	Pig-tailed macaque	Macaca nemestrina
+HLmerUng1	Mongolian gerbil	Meriones unguiculatus
+HLcamDro1	Arabian camel	Camelus dromedarius
+HLneoSch1	Hawaiian monk seal	Neomonachus schauinslandi
+HLmusCar1	Ryukyu mouse	Mus caroli
+HLmusPah1	Shrew mouse	Mus pahari
+HLcerEla1	Red deer	Cervus elaphus hippelaphus
+HLmanLeu1	Drill	Mandrillus leucophaeus
+HLbosInd1	Zebu cattle	Bos indicus
+HLaotNan2	Mas night monkey	Aotus nancymaae
+HLphaCin1	Koala	Phascolarctos cinereus
+HLdipOrd2	Ords kangaroo rat	Dipodomys ordii
+HLdesRot1	Common vampire bat	Desmodus rotundus
+HLorcOrc1	Killer whale	Orcinus orca
+HLenhLut1	Sea otter	Enhydra lutris kenyoni
+HLdelLeu1	Beluga whale	Delphinapterus leucas
+HLmyoMyo1	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo2	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo3	Greater mouse-eared bat	Myotis myotis
+HLcalAnn1	Anna's hummingbird	Calypte anna
+HLcalAnn2	Annas hummingbird	Calypte anna
+HLequCab3	Horse	Equus caballus
+HLchaPel1	Chimney swift	Chaetura pelagica
+HLoreMel1	Black-breasted hillstar	Oreotrochilus melanogaster
+HLpilTep1	Ugandan red colobus	Piliocolobus tephrosceles
+HLcotJap2	Japanese quail	Coturnix japonica
+HLanaPla1	Common mallard	Anas platyrhynchos platyrhynchos
+HLanaPla2	Common mallard	Anas platyrhynchos platyrhynchos
+HLcolLiv2	Rock pigeon	Columba livia
+HLpsiKra1	Rose-ringed parakeet	Psittacula krameri
+HLacrJav1	Javan myna	Acridotheres javanicus
+HLanaZon1	Eastern spot-billed duck	Anas zonorhyncha
+HLuriLom1	Thick-billed guillemot	Uria lomvia
+HLansBra1	Pink-footed goose	Anser brachyrhynchus
+HLsaxMau1	Siberian stonechat	Saxicola maurus maurus
+HLstrOcc1	Northern spotted owl	Strix occidentalis caurina
+HLcalSqu1	Scaled quail	Callipepla squamata
+HLcolVir2	Northern bobwhite	Colinus virginianus
+HLuriPel1	Pelagic cormorant	Urile pelagicus
+HLlonStr1	Bengalese finch	Lonchura striata domestica
+HLnanAur1	Double-crested cormorant	Nannopterum auritus
+HLspoHyp1	Tawny-bellied seedeater	Sporophila hypoxantha
+HLansCyg1	Swan goose	Anser cygnoides
+HLnumMel2	Helmeted guineafowl	Numida meleagris
+HLcorCor2	Hooded crow	Corvus cornix cornix
+HLpatFas1	Band-tailed pigeon	Patagioenas fasciata monilis
+macLig1	Macrostomum	Macrostomum lignano 
+boaCon1	Boa	Boa constrictor
+schJap1	Schist.japonicum	Schistosoma japonicum
+schMed1	Schmidtea	Schmidtea mediterranea
+schMan1	Schist.mansoni	Schistosoma mansoni
+dp4	D. pseudoobscura	Drosophila pseudoobscura
+droSuz1	D. suzukii	Drosophila suzukii
+droMau1	D. mauritiana	Drosophila mauritiana
+dp5	D. pseudoobscura	Drosophila pseudoobscura pseudoobscura
+droSuz2	D. suzukii	Drosophila suzukii
+HLlipVex1	Yangtze river dolphin	Lipotes vexillifer
+HLbalAcu1	Minke whale	Balaenoptera acutorostrata
+HLphyCat1	Sperm whale	Physeter catodon 
+HLursMar1	Polar bear	Ursus maritimus
+lambda	Lambda	Enterobacteria phage lambda
+HLtupMer0	Tupinambis	Tupinambis teguixin
+HLtupMer1	Tupinambis	Tupinambis teguixin
+HLthaPse1	Thalassiosira pseudonana	Thalassiosira pseudonana
+HLphaTri1	Phaeodactylum tricornutum	Phaeodactylum tricornutum
+HLfraCyl1	Fragilariopsis cylindrus	Fragilariopsis cylindrus
+HLnotFur1	Turquoise killifish	Nothobranchius furzeri
+HLtupMer2	Tupinambis	Tupinambis merianae
+HLtreOri1	Tretioscincus	Tretioscincus oriximinensis
+HLophGra1	Ophisaurus	Ophisaurus gracilis
+HLtupMer3	Tupinambis	Tupinambis merianae
+HLcalSin1	Calyptommatus	Calyptommatus sinebrachiatus
+HLptePar	Parnell moustached bat	Pteronotus parnellii
+HLcroHor1	Timber rattlesnake	Crotalus horridus
+HLgekJap1	Gekko	Gekko japonicus
+HLaotNan1	Night monkey	Aotus nancymaae
+HLcebCap1	White-faced sapajou	Cebus capucinus imitator
+HLproCoq1	Sifaka	Propithecus coquereli
+HLcerAty1	Sooty mangabey	Cercocebus atys
+HLcolAng1	Angolan colobus	Colobus angolensis palliatus
+HLpogVit1	Australian dragon	Pogona vitticeps
+schMed3	Schmidtea	Schmidtea mediterranea
+macLig2	Macrostomum	Macrostomum lignano 
+HLambMex2	Axolotl	Ambystoma mexicanum
+HLambMex1	Axolotl	Ambystoma mexicanum
+HLambMex4	Axolotl	Ambystoma mexicanum
+HLambMex3	Axolotl	Ambystoma mexicanum
+HLambMexHox	Axolotl	Ambystoma mexicanum
+HLaciJub1	Cheetah	Acinonyx jubatus
+HLailFul1	Lesser panda	Ailurus fulgens styani
+HLcasCan1	American beaver	Castor canadensis
+HLequAsi1	Ass	Equus asinus
+HLfukDam1	Damara mole-rat	Fukomys damarensis
+HLhipArm1	Great roundleaf bat	Hipposideros armiger
+HLlycPic1	African hunting dog	Lycaon pictus
+HLmanJav1	Malayan pangolin	Manis javanica
+HLmarMar1	Alpine marmot	Marmota marmota marmota
+HLminNat1	Natal long-fingered bat	Miniopterus natalensis
+HLoviCan1	Bighorn sheep	Ovis canadensis canadensis
+HLpanPar1	Leopard	Panthera pardus
+HLrhiSin1	Chinese rufous horseshoe bat	Rhinolophus sinicus
+HLodoVir1	White-tailed deer	Odocoileus virginianus texanus
+HLcamFer2	Wild bactrian camel	Camelus ferus
+HLcamBac1	Bactrian camel	Camelus bactrianus
+HLcapHir2	Goat	Capra hircus
+HLturTru3	Bottlenose dolphin	Tursiops truncatus
+HLoviAri4	Sheep	Ovis aries
+HLpteVam2	Large flying fox	Pteropus vampyrus
+HLproCap2	Cape rock hyrax	Procavia capensis
+HLsusScr4	Pig	Sus scrofa
+HLchoHof2	Hoffmanns two-fingered sloth	Choloepus hoffmanni
+ambMex3	Axolotl	Ambystoma mexicanum
+HLmacNem1	Pig-tailed macaque	Macaca nemestrina
+HLmerUng1	Mongolian gerbil	Meriones unguiculatus
+HLcamDro1	Arabian camel	Camelus dromedarius
+HLneoSch1	Hawaiian monk seal	Neomonachus schauinslandi
+HLmusCar1	Ryukyu mouse	Mus caroli
+HLmusPah1	Shrew mouse	Mus pahari
+HLcerEla1	Red deer	Cervus elaphus hippelaphus
+HLmanLeu1	Drill	Mandrillus leucophaeus
+HLbosInd1	Zebu cattle	Bos indicus
+HLaotNan2	Mas night monkey	Aotus nancymaae
+HLphaCin1	Koala	Phascolarctos cinereus
+HLdipOrd2	Ords kangaroo rat	Dipodomys ordii
+HLdesRot1	Common vampire bat	Desmodus rotundus
+HLorcOrc1	Killer whale	Orcinus orca
+HLenhLut1	Sea otter	Enhydra lutris kenyoni
+HLdelLeu1	Beluga whale	Delphinapterus leucas
+HLmyoMyo1	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo2	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo3	Greater mouse-eared bat	Myotis myotis
+HLcalAnn1	Anna's hummingbird	Calypte anna
+HLcalAnn2	Annas hummingbird	Calypte anna
+HLequCab3	Horse	Equus caballus
+HLchaPel1	Chimney swift	Chaetura pelagica
+macLig1	Macrostomum	Macrostomum lignano 
+boaCon1	Boa	Boa constrictor
+schJap1	Schist.japonicum	Schistosoma japonicum
+schMed1	Schmidtea	Schmidtea mediterranea
+schMan1	Schist.mansoni	Schistosoma mansoni
+dp4	D. pseudoobscura	Drosophila pseudoobscura
+droSuz1	D. suzukii	Drosophila suzukii
+droMau1	D. mauritiana	Drosophila mauritiana
+dp5	D. pseudoobscura	Drosophila pseudoobscura pseudoobscura
+droSuz2	D. suzukii	Drosophila suzukii
+HLlipVex1	Yangtze river dolphin	Lipotes vexillifer
+HLbalAcu1	Minke whale	Balaenoptera acutorostrata
+HLphyCat1	Sperm whale	Physeter catodon 
+HLursMar1	Polar bear	Ursus maritimus
+lambda	Lambda	Enterobacteria phage lambda
+HLtupMer0	Tupinambis	Tupinambis teguixin
+HLtupMer1	Tupinambis	Tupinambis teguixin
+HLthaPse1	Thalassiosira pseudonana	Thalassiosira pseudonana
+HLphaTri1	Phaeodactylum tricornutum	Phaeodactylum tricornutum
+HLfraCyl1	Fragilariopsis cylindrus	Fragilariopsis cylindrus
+HLnotFur1	Turquoise killifish	Nothobranchius furzeri
+HLtupMer2	Tupinambis	Tupinambis merianae
+HLtreOri1	Tretioscincus	Tretioscincus oriximinensis
+HLophGra1	Ophisaurus	Ophisaurus gracilis
+HLtupMer3	Tupinambis	Tupinambis merianae
+HLcalSin1	Calyptommatus	Calyptommatus sinebrachiatus
+HLptePar	Parnell moustached bat	Pteronotus parnellii
+HLcroHor1	Timber rattlesnake	Crotalus horridus
+HLgekJap1	Gekko	Gekko japonicus
+HLaotNan1	Night monkey	Aotus nancymaae
+HLcebCap1	White-faced sapajou	Cebus capucinus imitator
+HLproCoq1	Sifaka	Propithecus coquereli
+HLcerAty1	Sooty mangabey	Cercocebus atys
+HLcolAng1	Angolan colobus	Colobus angolensis palliatus
+HLpogVit1	Australian dragon	Pogona vitticeps
+schMed3	Schmidtea	Schmidtea mediterranea
+macLig2	Macrostomum	Macrostomum lignano 
+HLambMex2	Axolotl	Ambystoma mexicanum
+HLambMex1	Axolotl	Ambystoma mexicanum
+HLambMex4	Axolotl	Ambystoma mexicanum
+HLambMex3	Axolotl	Ambystoma mexicanum
+HLambMexHox	Axolotl	Ambystoma mexicanum
+HLaciJub1	Cheetah	Acinonyx jubatus
+HLailFul1	Lesser panda	Ailurus fulgens styani
+HLcasCan1	American beaver	Castor canadensis
+HLequAsi1	Ass	Equus asinus
+HLfukDam1	Damara mole-rat	Fukomys damarensis
+HLhipArm1	Great roundleaf bat	Hipposideros armiger
+HLlycPic1	African hunting dog	Lycaon pictus
+HLmanJav1	Malayan pangolin	Manis javanica
+HLmarMar1	Alpine marmot	Marmota marmota marmota
+HLminNat1	Natal long-fingered bat	Miniopterus natalensis
+HLoviCan1	Bighorn sheep	Ovis canadensis canadensis
+HLpanPar1	Leopard	Panthera pardus
+HLrhiSin1	Chinese rufous horseshoe bat	Rhinolophus sinicus
+HLodoVir1	White-tailed deer	Odocoileus virginianus texanus
+HLcamFer2	Wild bactrian camel	Camelus ferus
+HLcamBac1	Bactrian camel	Camelus bactrianus
+HLcapHir2	Goat	Capra hircus
+HLturTru3	Bottlenose dolphin	Tursiops truncatus
+HLoviAri4	Sheep	Ovis aries
+HLpteVam2	Large flying fox	Pteropus vampyrus
+HLproCap2	Cape rock hyrax	Procavia capensis
+HLsusScr4	Pig	Sus scrofa
+HLchoHof2	Hoffmanns two-fingered sloth	Choloepus hoffmanni
+ambMex3	Axolotl	Ambystoma mexicanum
+HLmacNem1	Pig-tailed macaque	Macaca nemestrina
+HLmerUng1	Mongolian gerbil	Meriones unguiculatus
+HLcamDro1	Arabian camel	Camelus dromedarius
+HLneoSch1	Hawaiian monk seal	Neomonachus schauinslandi
+HLmusCar1	Ryukyu mouse	Mus caroli
+HLmusPah1	Shrew mouse	Mus pahari
+HLcerEla1	Red deer	Cervus elaphus hippelaphus
+HLmanLeu1	Drill	Mandrillus leucophaeus
+HLbosInd1	Zebu cattle	Bos indicus
+HLaotNan2	Mas night monkey	Aotus nancymaae
+HLphaCin1	Koala	Phascolarctos cinereus
+HLdipOrd2	Ords kangaroo rat	Dipodomys ordii
+HLdesRot1	Common vampire bat	Desmodus rotundus
+HLorcOrc1	Killer whale	Orcinus orca
+HLenhLut1	Sea otter	Enhydra lutris kenyoni
+HLdelLeu1	Beluga whale	Delphinapterus leucas
+HLmyoMyo1	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo2	Greater mouse-eared bat	Myotis myotis
+HLmyoMyo3	Greater mouse-eared bat	Myotis myotis
+HLcalAnn1	Anna's hummingbird	Calypte anna
+HLcalAnn2	Annas hummingbird	Calypte anna
+HLequCab3	Horse	Equus caballus
+HLchaPel1	Chimney swift	Chaetura pelagica
+HLoreMel1	Black-breasted hillstar	Oreotrochilus melanogaster
+HLpilTep1	Ugandan red colobus	Piliocolobus tephrosceles
+HLcotJap2	Japanese quail	Coturnix japonica
+HLanaPla1	Common mallard	Anas platyrhynchos platyrhynchos
+HLanaPla2	Common mallard	Anas platyrhynchos platyrhynchos
+HLcolLiv2	Rock pigeon	Columba livia
+HLpsiKra1	Rose-ringed parakeet	Psittacula krameri
+HLacrJav1	Javan myna	Acridotheres javanicus
+HLanaZon1	Eastern spot-billed duck	Anas zonorhyncha
+HLuriLom1	Thick-billed guillemot	Uria lomvia
+HLansBra1	Pink-footed goose	Anser brachyrhynchus
+HLsaxMau1	Siberian stonechat	Saxicola maurus maurus
+HLstrOcc1	Northern spotted owl	Strix occidentalis caurina
+HLcalSqu1	Scaled quail	Callipepla squamata
+HLcolVir2	Northern bobwhite	Colinus virginianus
+HLuriPel1	Pelagic cormorant	Urile pelagicus
+HLlonStr1	Bengalese finch	Lonchura striata domestica
+HLnanAur1	Double-crested cormorant	Nannopterum auritus
+HLspoHyp1	Tawny-bellied seedeater	Sporophila hypoxantha
+HLansCyg1	Swan goose	Anser cygnoides
+HLnumMel2	Helmeted guineafowl	Numida meleagris
+HLcorCor2	Hooded crow	Corvus cornix cornix
+HLpatFas1	Band-tailed pigeon	Patagioenas fasciata monilis
+HLcolVir1	Northern bobwhite	Colinus virginianus
+HLnumMel1	Helmeted guineafowl	Numida meleagris
+HLtaeGut2	Zebra finch	Taeniopygia guttata
+HLtaeGut3	Zebra finch	Taeniopygia guttata
+HLhemCom1	Whiskered treeswift 	Hemiprocne comata
+HLbalMys1	Bowhead whale	Balaena mysticetus
+HLrhiFer1	Greater horseshoe bat	Rhinolophus ferrumequinum
+HLtaeGut3A	Zebra finch	Taeniopygia guttata
+HLtaeGut3B	Zebra finch	Taeniopygia guttata
+HLtymCup1	Greater prairie chicken	Tympanuchus cupido pinnatus
+HLcalAnn2B	Annas hummingbird	Calypte anna
+HLcalAnn2A	Annas hummingbird	Calypte anna
+HLtupMer6	Tegu lizard	Salvator merianae
+HLpogVit2	Central bearded dragon	Pogona vitticeps
+HLvipBer1	Common viper	Vipera berus berus
+HLproMuc1	Brown spotted pitviper	Protobothrops mucrosquamatus
+HLthaSir1	Common garter snake	Thamnophis sirtalis
+HLhipAmp1	Hippopotamus	Hippopotamus amphibius
+HLrhiFer2	Greater horseshoe bat	Rhinolophus ferrumequinum
+HLphyDis1	Lesser spear-nosed bat	Phyllostomus discolor
+HLphyDis2	Lesser spear-nosed bat	Phyllostomus discolor
+HLrhiFer3	Greater horseshoe bat	Rhinolophus ferrumequinum
+HLnycHum1	Evening bat	Nycticeius humeralis
+HLmyoMyo4	Greater mouse-eared bat	Myotis myotis
+HLloxAfr4	African savannah elephant	Loxodonta africana
+HLcalAnn3B	Annas hummingbird	Calypte anna
+HLcalAnn3A	Annas hummingbird	Calypte anna
